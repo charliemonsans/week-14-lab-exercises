@@ -34,3 +34,5 @@ jobs:
         run: npm ci
       - working-directory: mashup
         run: npm audit
+      - working-directory: mashup
+        run: npm run lint
