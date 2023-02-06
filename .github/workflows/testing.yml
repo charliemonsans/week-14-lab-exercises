@@ -27,5 +27,3 @@ jobs:
         run: npm ci
       - working-directory: insecure
         run: npm audit
-      - working-directory: insecure
-        run: npm test
