@@ -16,7 +16,7 @@ see [Github Actions, Getting started](https://docs.github.com/en/actions/quickst
 1. [✓] Get CI to test for insecure modules
     1. [✓] Fix issues
     1. [✓] recommit
-1. [ ] Get CI to detect messed up JS
+1. [✓] Get CI to detect messed up JS
     1. [ ] Fix issues
     1. [ ] recommit
     1. [ ] Mash it up again
